@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../pizza_orders.SemanticModel"
+    },
+    "byConnection": null
+  }
+}
